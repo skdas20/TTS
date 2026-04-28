@@ -1,0 +1,14 @@
+.codex
+.venv/
+node_modules/
+models/
+voices/
+cloudflared
+ngrok
+deploy_ed25519_key
+deploy_ed25519_key.pub
+deploy_public_key.txt
+__pycache__/
+app/__pycache__/
+*.pyc
+*.log
